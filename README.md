@@ -4,3 +4,6 @@ I tried to made it Betty-compatible
 as I am currently an Holberton student
 But I seem to have exceeded the 40 lines
 in a file, and not wanting to adjust it for the moment.
+
+You can dowload the source code in C
+and compile it using GCC.
